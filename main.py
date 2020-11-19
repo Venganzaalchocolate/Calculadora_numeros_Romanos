@@ -1,4 +1,3 @@
-from funRom import *
+from funRomanos import *
 
-print(romano_a_entero('M'))
-print(romano_a_entero(23))
+print(romano_a_entero(romano))
